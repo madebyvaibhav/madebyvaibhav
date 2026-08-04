@@ -113,8 +113,9 @@ const vaibhav = {
 | 🤖 **Ira AI Assistant** | Voice assistant with speech recognition, task automation & smart scheduling | `TypeScript` `AI` `Speech API` | [<img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/ira-ai-assistant) |
 | 🎓 **College Management System** | Full-stack college ERP with timetable, attendance & role dashboards | `Python` `FastAPI` `Full-Stack` | [<img src="https://img.shields.io/badge/View_Repo-38BDF8?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/college-management-system) |
 | 🛡️ **Cyber Kavach** | Security scanner flagging phishing links & fake images for companies | `Python` `Cybersecurity` `OSINT` | [<img src="https://img.shields.io/badge/View_Repo-EC4899?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/cyber-kavach) |
+| 🧩 **Quiz Web Application** | Interactive quiz platform with admin dashboard, live quiz modes & authentication | `JavaScript` `HTML5` `CSS3` | [<img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/quiz-website) |
 | 🇮🇳 **Indian Startup Tycoon** | 30 Unity Business Tycoon games — Build your Indian Startup Empire | `Unity` `C#` `GameDev` | [<img src="https://img.shields.io/badge/View_Repo-10B981?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/indian-startup-tycoon) |
-| 🌐 **Portfolio Website** | Personal portfolio website built with Next.js and Tailwind CSS | `Next.js` `React` `Tailwind` | [<img src="https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/portfolio-website) |
+| 🌐 **Portfolio Website** | Personal portfolio website built with Next.js and Tailwind CSS | `React` `JavaScript` `CSS` | [<img src="https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=white" height="22"/>](https://github.com/madebyvaibhav/portfolio-website) |
 
 ---
 
