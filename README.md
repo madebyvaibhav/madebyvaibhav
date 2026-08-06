@@ -1,152 +1,94 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="./assets/header_banner.jpg" alt="Vaibhav Thakur - Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/madebyvaibhav/madebyvaibhav/main/assets/header_banner.jpg" alt="Vaibhav Thakur Banner" width="100%" />
 </p>
 
 <div align="center">
 
 # Hi there, I'm <font color="#8B5CF6">Vaibhav Thakur</font> 👋
 
-**Full Stack Developer | Android & Game Developer | AI Enthusiast**
+<a href="https://github.com/madebyvaibhav">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Web%2C+Mobile+%26+Game+Solutions;Aiming+for+Software+Engineer+Role+%40+Google+(2028);Mastering+Data+Structures+%26+System+Design" alt="Typing Intro" />
+</a>
 
-Passionate about building real-world products that solve real problems. I love
-turning ideas into beautiful, scalable and impactful software. Currently in 5th
-Semester, aiming for Software Engineer role @ **Google** / **Microsoft** / **Amazon** by **2028**.
+<p align="center">
+  <a href="https://github.com/madebyvaibhav"><img src="https://img.shields.io/github/followers/madebyvaibhav?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github" alt="Followers" /></a>
+  <a href="https://komarev.com/ghpvc/?username=madebyvaibhav&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=madebyvaibhav&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/madebyvaibhav?tab=repositories"><img src="https://img.shields.io/github/stars/madebyvaibhav?label=Total%20Stars&style=for-the-badge&color=EC4899&labelColor=0D1117&logo=github" alt="Stars" /></a>
+  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+</p>
 
 </div>
 
 ---
 
-<!-- Tech Stack & Goals Side by Side -->
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
+## ⚡ `> whoami`
 
-## 🚀 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_(Expo)-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-</td>
-<td width="30%" valign="top">
-
-## 🎯 Goals
-
-✅ Master DS & System Design
-
-✅ Build 10+ Real-world Projects
-
-✅ Contribute to Open Source
-
-🎯 Get Placed @ Google (2028)
+```typescript
+const vaibhav = {
+  name: "Vaibhav Thakur",
+  role: "Full-Stack Developer & AI Innovator",
+  location: "Bharuch, Gujarat, India 🇮🇳",
+  education: "Computer Engineering Student @ SVMIT (GTU)",
+  currentFocus: [
+    "Building Ira AI Voice Assistant",
+    "Full-Stack College ERP Platform",
+    "Advanced DSA & System Design"
+  ],
+  passions: ["Artificial Intelligence", "Unity 3D Game Engines", "Open Source Architecture"],
+  goal: "Targeting Software Engineer Role @ Google / Microsoft / Amazon (2028)",
+  funFact: "I debug with 90% confidence and 10% Stack Overflow & AI ⚡"
+};
+```
 
 ---
 
-### 📫 Let's connect!
+## 🛠️ Tech Stack & Arsenal
 
-<a href="https://linkedin.com/in/madebyvaibhav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/madebyvaibhav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/@madebyvaibhav"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://instagram.com/vaibhav_16_1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://discord.com/users/madebyvaibhav"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,express,mongodb,postgres,supabase,firebase,cpp,java,cs,unity,git,github,docker,linux,vscode,figma,vercel&theme=dark" alt="Tech Stack Icons" />
+</p>
 
-</td>
-</tr>
-</table>
+<details open>
+<summary><b>🔍 Detailed Categorized Breakdown</b></summary>
+<br/>
 
----
+| Category | Technologies |
+|---|---|
+| **Frontend** | `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Tailwind CSS` |
+| **Backend & APIs** | `Python` `FastAPI` `Node.js` `Express.js` `C++` `Java` `REST APIs` |
+| **Databases & Cloud** | `PostgreSQL` `MongoDB` `Supabase` `Firebase` `MySQL` `Redis` |
+| **Game Dev & Mobile** | `Unity 3D` `C#` `Android (Expo / React Native)` `Game Physics` |
+| **Tools & DevOps** | `Git` `GitHub` `Docker` `Linux` `VS Code` `Vercel` `Postman` `Figma` |
 
-## 📌 Pinned Repositories
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 [Ira-AI-Assistant](https://github.com/madebyvaibhav/ira-ai-assistant)
-Personal AI Assistant like Jarvis with voice, vision & smart automation. React Native + FastAPI + Supabase
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ⭐ 842 🍴 104
-
-</td>
-<td width="33%" valign="top">
-
-### 🎓 [College-Management-System](https://github.com/madebyvaibhav/college-management-system)
-AI powered timetable, attendance, result & exam system for smart campuses.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ⭐ 732 🍴 96
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ [Cyber-Kavach](https://github.com/madebyvaibhav/cyber-kavach)
-AI based cyber security tool to detect phishing, malware & fake images. Stay Safe Online!
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ⭐ 689 🍴 87
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🇮🇳 [Indian-Startup-Tycoon](https://github.com/madebyvaibhav/indian-startup-tycoon)
-3D Unity Business Simulation Game – Build your own Indian Startup Empire 🚀
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ⭐ 521 🍴 74
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 [Portfolio-Website](https://github.com/madebyvaibhav/portfolio-website)
-My personal 3D portfolio website built with Next.js and Three.js
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ⭐ 418 🍴 62
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 [DSA-Sheet](https://github.com/madebyvaibhav/cpp-fundamentals)
-My complete DSA journey with solutions and notes for product based companies.
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ⭐ 1.2k 🍴 264
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects & Repositories
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Ira AI Assistant** | Personal AI Assistant like Jarvis with voice, vision & smart automation | `TypeScript` `FastAPI` `Supabase` | [View Repo](https://github.com/madebyvaibhav/ira-ai-assistant) |
+| 🎓 **College Management System** | Full-stack college ERP with timetable, attendance & role dashboards | `Python` `FastAPI` `React` | [View Repo](https://github.com/madebyvaibhav/college-management-system) |
+| 🛡️ **Cyber Kavach** | Security scanner flagging phishing links & fake images for companies | `Python` `OSINT` `AI` | [View Repo](https://github.com/madebyvaibhav/cyber-kavach) |
+| 📚 **C++ & DSA Fundamentals** | 60-day FAANG preparation journey with solutions & detailed notes | `C++` `DSA` `Algorithms` | [View Repo](https://github.com/madebyvaibhav/cpp-fundamentals) |
+| 🇮🇳 **Indian Startup Tycoon** | 30 Unity Business Tycoon games — Build your Indian Startup Empire | `Unity` `C#` `3D` | [View Repo](https://github.com/madebyvaibhav/indian-startup-tycoon) |
+| 🌐 **Portfolio Website** | Personal 3D portfolio website built with Next.js and Three.js | `TypeScript` `Next.js` `Tailwind` | [View Repo](https://github.com/madebyvaibhav/portfolio-website) |
+
+---
+
+## 🎯 2026 Roadmap & Goals
+
+- [x] **Month 1 (C++ & Foundations)**: Variables, OOP, STL, Pointers, Binary Search, Sliding Window, Sorting (Days 1–11 complete)
+- [ ] **Month 2 (Full-Stack & Advanced DSA)**: JS/TS Internals, Node.js, Express, PostgreSQL, MongoDB, Tries, DSU, Segment Trees
+- [ ] Build and launch **Ira AI Voice Assistant v2**
+- [ ] Solve 300+ LeetCode DSA Problems
+- [ ] Target Placement @ **Google / Microsoft / Amazon** (2028 Batch) 🎯
+
+---
+
+## 📊 Analytics & Activity
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=madebyvaibhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&count_private=true" alt="Vaibhav Thakur's GitHub Stats" />
@@ -154,7 +96,7 @@ My complete DSA journey with solutions and notes for product based companies.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyvaibhav&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=C9D1D9&sideNums=8B5CF6&currStreakNum=06B6D4&dates=555555" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyvaibhav&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=C9D1D9&sideNums=8B5CF6&currStreakNum=06B6D4" alt="GitHub Streak" />
 </p>
 
 ---
@@ -167,17 +109,9 @@ My complete DSA journey with solutions and notes for product based companies.
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madebyvaibhav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=EC4899&area=true&area_color=8B5CF6" alt="Activity Graph" />
-</p>
-
----
+## 🐍 Contribution Activity
 
 <div align="center">
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madebyvaibhav/madebyvaibhav/output/github-contribution-grid-snake-dark.svg" />
@@ -189,14 +123,21 @@ My complete DSA journey with solutions and notes for product based companies.
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/madebyvaibhav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://vaibhavthakur.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:vaibhavthakur007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://twitter.com/madebyvaibhav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/vaibhav_16_1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madebyvaibhav&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/>
 
-<br/><br/>
-
-**Building Scalable Web, Mobile, AI & Game Solutions | Future SDE @ Google**
-
-*Made with 💜 by Vaibhav Thakur*
+<i>"Building the future with code, passion, and creativity."</i>  
+**Made with 💜 by Vaibhav Thakur**
 
 </div>
